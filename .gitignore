@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/
+coverage/
+*.zip
+*.log
+.tmp-postgres-test/
+npm-debug.log*
+.DS_Store
